@@ -35,7 +35,7 @@ HttpClient 不是浏览器，它是一个客户端 HTTP 协议传输类库。Htt
 
 **本项目采用spring-boot构建，话不多说，上代码**
 
-![优秀](https://raw.githubusercontent.com/JourWon/image/master/common/%E4%BC%98%E7%A7%80.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
+![优秀](http://upload-images.jianshu.io/upload_images/11485974-c163072742608fd9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 
 ### 6.1 添加依赖
 ```java
